@@ -22,4 +22,5 @@ set(gtest_force_shared_crt ON CACHE BOOL "" FORCE)
 FetchContent_MakeAvailable(googletest)
 
 add_subdirectory(Problem1)
+add_subdirectory(Problem2)
 
